@@ -16,11 +16,7 @@ Requires  `python>=3.8`
 !git clone https://github.com/geekyutao/Inpaint-Anything.git
 ```
 
-    Cloning into 'Inpaint-Anything'...
-    remote: Enumerating objects: 2090, done.[K
-    remote: Counting objects: 100% (162/162), done.[K
-    remote: Compressing objects: 100% (80/80), done.[K
-    ^C
+    Cloning into 'Inpaint-Anything'
     
 
 
